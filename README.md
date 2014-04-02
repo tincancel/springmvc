@@ -6,5 +6,4 @@ Jetty Web Server provides an HTTP server and Servlet container capable of servin
 
 References:
 https://devcenter.heroku.com/articles/deploy-a-java-web-application-that-launches-with-jetty-runner
-http://vibhurishi.blogspot.com/2013/02/heroku-error-h14-with-django.html
 https://devcenter.heroku.com/articles/procfile
