@@ -1,4 +1,4 @@
-<font face='Tahoma' size=2>
+﻿<font face='Verdana' size=2>
 This is a simple Spring MVC Web Application deployed in Heroku using Jetty Web Server.
 <br/>
 <ul>
