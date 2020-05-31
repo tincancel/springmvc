@@ -2,7 +2,7 @@
 This is a simple Spring MVC Web Application deployed in Heroku using Jetty Web Server.
 <br/>
 <ul>
-<li>Spring MVC helps in building flexible and loosely coupled web applications. The Model-view-controller design pattern helps in seperating the business logic, presentation logic and navigation logic.</li>
+<li>Spring MVC helps in building flexible and loosely coupled web applications. The Model-view-controller design pattern helps in separating the business logic, presentation logic and navigation logic.</li>
 <li>Heroku is a cloud application platform – a new way of building and deploying web apps.</li>
 <li>Jetty Web Server provides an HTTP server and Servlet container capable of serving static and dynamic content either from a standalone or embedded instantiations.</li>
 </ul>
